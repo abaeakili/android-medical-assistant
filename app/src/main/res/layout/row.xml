@@ -20,7 +20,7 @@
         android:paddingEnd="10dp"
         android:paddingStart="10dp"
         android:paddingTop="10dp"
-        android:text="name"
+        android:text="@string/name"
         android:textColor="#fff"
         android:textSize="18sp"
         android:typeface="sans"
@@ -38,7 +38,8 @@
         android:background="@drawable/medical_tool"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/title" />
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        android:contentDescription="@string/todo" />
 
     <Button
         android:id="@+id/more"
@@ -49,7 +50,7 @@
         android:layout_marginStart="2dp"
         android:layout_marginTop="12dp"
         android:background="@drawable/bottom_rounded_buttons"
-        android:text="more"
+        android:text="@string/more"
         android:textColor="@color/colorPrimary"
         android:textSize="19sp"
         android:typeface="sans"

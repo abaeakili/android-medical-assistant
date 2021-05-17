@@ -1,8 +1,5 @@
 package com.example.yomna.symptomate;
 
-/**
- * Created by Yomna on 12/1/2017.
- */
 
 import android.content.Context;
 import android.icu.text.LocaleDisplayNames;

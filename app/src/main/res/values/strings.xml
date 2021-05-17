@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Symptomate</string>
+    <string name="app_name">eDoc Bot</string>
+    <string name="start_again">Start again</string>
+    <string name="find_doctor">Find Doctor</string>
+    <string name="you_may_be_suffering_from_one_of_the_following_conditions">You may be suffering from one of the following conditions:</string>
+    <string name="do_you_have_chronic_abdominal_pain">Do you have chronic abdominal pain?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="don_t_know">Don\'t know</string>
+    <string name="fastisha_edoc_bot_at_your_service">Fastisha eDoc bot at your service..</string>
+    <string name="proceed">Proceed</string>
+    <string name="first_things_first_have_we_met_before">First things first, have we met before?</string>
+    <string name="of_course">Of course!</string>
+    <string name="not_yet">Not Yet!</string>
+    <string name="sent_message_sample">Sent message sample!</string>
+    <string name="_11_40">11:40</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="name">name</string>
+    <string name="more">more</string>
+    <string name="received_message_sample">Received message sample!</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="here_are_the_conditions">Here are the conditions:</string>
+    <string name="diagnose_another_person">Diagnose another person</string>
+    <string name="here_s_what_i_understood">Here\'s what I understood:</string>
+    <string name="yes_there_s_more">Yes, there\'s more</string>
+    <string name="no_let_s_go_on">No, let\'s go on</string>
+    <string name="yes_go_on">Yes, go on</string>
+    <string name="no_add_more">No, add more</string>
+    <string name="send_a_message">   Send a message</string>
+    <string name="todo">TODO</string>
+    <string name="input_message">    Input message</string>
 </resources>

@@ -11,14 +11,14 @@
         android:layout_width="wrap_content"
         android:maxWidth="240dp"
         android:layout_height="wrap_content"
-        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/rounded_edittext_sender"
         android:paddingBottom="10dp"
         android:paddingLeft="15dp"
         android:paddingRight="15dp"
         android:paddingTop="10dp"
-        android:text="Sent message sample!"
+        android:text="@string/sent_message_sample"
         android:textColor="#fff"
         android:textSize="20sp"
         app:layout_constraintRight_toRightOf="parent"
@@ -26,12 +26,13 @@
 
     <TextView
         android:id="@+id/time"
-        android:text="11:40"
+        android:text="@string/_11_40"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
         android:textSize="10sp"
         app:layout_constraintRight_toRightOf="@id/sent_msg"
-        app:layout_constraintTop_toBottomOf="@id/sent_msg" />
+        app:layout_constraintTop_toBottomOf="@id/sent_msg"
+        tools:ignore="SmallSp" />
 
 </android.support.constraint.ConstraintLayout>
